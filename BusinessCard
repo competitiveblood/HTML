@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .card {
+        width: 500px;
+        height: 300px;
+        background-color: teal;
+        text-align: center;
+        padding: 10px;
+      }
+
+      h1 {
+        font-size: 40px;
+        margin: 0;
+      }
+
+      h2 {
+        font-size: 30px;
+        margin: 0;
+        color: silver;
+      }
+
+      p {
+        margin: 0;
+        font-size: 20px;
+        color: purple;
+      }
+
+      a {
+        color: lime;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="card">
+      <h1>Shivangi Singh</h1>
+      <h2>BTech CSE Student@Manipal Jaipur</h2>
+      <p>Phone: (123) 123-1234</p>
+      <p>Email: <a href="johndoe@example.com">Shivangimasterblaster@gmail.com</a></p>
+      <p>Website: <a href="https://www.example.com">www.linkedin.com/in/shivangi-singh-8b8b5b1b2</a></p>
+    </div>
+  </body>
+</html>
